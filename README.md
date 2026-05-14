@@ -2,11 +2,11 @@
 
 Install guide:
 
-`[p]repo add ForkedMalarneCogs https://github.com/NIGHTST4RS/fork_of_malarne_cogs`
+`[p]repo add MalarneCogsFork https://github.com/NIGHTST4RS/MalarneCogs_fork`
 
 then:
 
-`[p]cog install ForkedMalarneCogs WhatYouWant`
+`[p]cog install MalarneCogsFork WhatYouWant`
 
 Enjoy
 
